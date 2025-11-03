@@ -1,2 +1,2 @@
 # ohtuvarasto
-https://github.com/noorapura/ohtuvarasto/.github/workflows/main.yml/badge
+[![CI](https://github.com/noorapura/ohtuvarasto/actions/workflows/main.yml/badge.svg)](https://github.com/noorapura/ohtuvarasto/actions/workflows/main.yml)
