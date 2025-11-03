@@ -1,2 +1,2 @@
 # ohtuvarasto
-https://github.com/noorapura/ohtuvarasto/actions/workflows/main.yml/badge
+https://github.com/noorapura/ohtuvarasto/.github/workflows/main.yml/badge
